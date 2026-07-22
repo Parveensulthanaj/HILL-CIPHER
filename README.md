@@ -113,7 +113,8 @@ printf("Cipher Text: %s\n", cipherText);
 ```
 
 ## OUTPUT:
-<img width="514" height="257" alt="CRYPT3 1" src="https://github.com/user-attachments/assets/0e26aa9e-5a95-41e9-be0c-89714e29000d" />
+<img width="638" height="278" alt="hill cipher" src="https://github.com/user-attachments/assets/285b92d4-9a6d-4c39-b594-b38d2b530569" />
+
 
 
 ## RESULT:
